@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:15:5-89
+	android:required
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:15:64-87
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:15:19-63
+application
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:17:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/subir/.android/build-cache/acf213162744258bf183bdf25144abde67b0a3be/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/subir/.android/build-cache/c6fbb55eef16c1579d12d9132921bdca2fe90b2a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/subir/.android/build-cache/4930d1f85c6e84a869c0b4a04f19b65b5c0cd3f1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/subir/.android/build-cache/be4fcda2068c817ec4d98a29de7a6eb299869900/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/subir/.android/build-cache/0cc12164c962a524ee9e4ec50d177b70665966f8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/subir/.android/build-cache/e7618641cf093e3a692c56d98c1d126653a21f25/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/subir/.android/build-cache/a5d69d271afc8bc5952bc0904e14cbf9e48ce093/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/subir/.android/build-cache/6e0f5cb7d6cf00fea9b42e4f8e1d7a72f0374acb/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/subir/.android/build-cache/0782d1b6d62d7009473c92bf51c394ad3093beef/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:21:9-35
+	android:allowBackup
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:22:9-40
+activity#activity.droid.subir.ble1.activityBLE
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:23:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/subir/.android/build-cache/acf213162744258bf183bdf25144abde67b0a3be/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /home/subir/.android/build-cache/c6fbb55eef16c1579d12d9132921bdca2fe90b2a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/subir/.android/build-cache/4930d1f85c6e84a869c0b4a04f19b65b5c0cd3f1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/subir/.android/build-cache/be4fcda2068c817ec4d98a29de7a6eb299869900/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/subir/.android/build-cache/0cc12164c962a524ee9e4ec50d177b70665966f8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/subir/.android/build-cache/e7618641cf093e3a692c56d98c1d126653a21f25/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/subir/.android/build-cache/a5d69d271afc8bc5952bc0904e14cbf9e48ce093/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/subir/.android/build-cache/6e0f5cb7d6cf00fea9b42e4f8e1d7a72f0374acb/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /home/subir/.android/build-cache/0782d1b6d62d7009473c92bf51c394ad3093beef/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /home/subir/.android/build-cache/acf213162744258bf183bdf25144abde67b0a3be/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subir/Documents/Thesis/WorkingBLE_basic/ble1/app/src/main/AndroidManifest.xml
